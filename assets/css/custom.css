@@ -1,0 +1,69 @@
+﻿.custom-home {
+    padding-bottom: 65px;
+}
+
+.banner-img{
+    max-width: 75%;
+    height: auto;
+}
+.banner-four-main-wrapper .inner .title, .banner-six-main-wrapper .inner .title {
+    font-size: 65px;
+    line-height: 100%;
+    margin-top: 15px;
+}
+
+.text-para-doc-wrap .text-para-documents {
+    font-size: 40px;
+    line-height: 1.25;
+}
+
+.year-of-expariance-wrapper .year-expariance-wrap .year-number {
+    font-size: 90px;
+}
+
+.year-of-expariance-wrapper .year-expariance-wrap .year-title {
+    font-size: 40px;
+}
+
+.year-of-expariance-wrapper {
+    padding: 90px 52px 90px 52px;
+}
+
+.custom-counter{
+    padding-top: 75px;
+}
+
+.custom-skill{
+    padding-top: 0;
+}
+
+.custom-experience {
+    margin-top: 32px;
+}
+
+.tag-items ul li p {
+    border-radius: 500px;
+    border: 2px solid var(--color-border);
+    color: var(--color-gray);
+    font-family: var(--font-secondary);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 5px 15px;
+    transition: var(--transition);
+}
+.tag-items ul li p:hover {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: #ffffff;
+    cursor: default;
+}
+
+
+.project-button{
+    padding-right: 6px;
+    display: inline-block;
+    top: 2px;
+    position: relative;
+    font-size: 17px;
+}
